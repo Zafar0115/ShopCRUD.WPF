@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\bin\Debug\net6.0\ShopCRUD.Data.deps.json
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\bin\Debug\net6.0\ShopCRUD.Data.runtimeconfig.json
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\bin\Debug\net6.0\ShopCRUD.Data.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\bin\Debug\net6.0\ShopCRUD.Data.pdb
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\bin\Debug\net6.0\ShopCRUD.Domain.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\bin\Debug\net6.0\ShopCRUD.Domain.pdb
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.csproj.CopyComplete
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\refint\ShopCRUD.Data.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.pdb
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ShopCRUD.Data.genruntimeconfig.cache
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Data\obj\Debug\net6.0\ref\ShopCRUD.Data.dll

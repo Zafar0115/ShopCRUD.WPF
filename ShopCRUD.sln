@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCRUD.Domain", "ShopCRUD.Domain\ShopCRUD.Domain.csproj", "{A6A27509-D9A9-42D8-B5F9-3E593057D024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCRUD.Data", "ShopCRUD.Data\ShopCRUD.Data.csproj", "{31622E88-462F-4A4E-B4C6-A42E6224B0C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopCRUD.WPF", "ShopCRUD.WPF\ShopCRUD.WPF.csproj", "{15F3A815-20EA-4618-9579-D68A5AF8D4DC}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6A27509-D9A9-42D8-B5F9-3E593057D024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A27509-D9A9-42D8-B5F9-3E593057D024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A27509-D9A9-42D8-B5F9-3E593057D024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A27509-D9A9-42D8-B5F9-3E593057D024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31622E88-462F-4A4E-B4C6-A42E6224B0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31622E88-462F-4A4E-B4C6-A42E6224B0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31622E88-462F-4A4E-B4C6-A42E6224B0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31622E88-462F-4A4E-B4C6-A42E6224B0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F3A815-20EA-4618-9579-D68A5AF8D4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F3A815-20EA-4618-9579-D68A5AF8D4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F3A815-20EA-4618-9579-D68A5AF8D4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F3A815-20EA-4618-9579-D68A5AF8D4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

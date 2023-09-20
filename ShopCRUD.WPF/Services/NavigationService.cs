@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShopCRUD.Data.Services
+namespace ShopCRUD.WPF.Services
 {
-    internal class GenericService
+    internal class NavigationService
     {
     }
 }

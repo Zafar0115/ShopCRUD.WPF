@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\bin\Debug\net6.0\ShopCRUD.Domain.deps.json
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\bin\Debug\net6.0\ShopCRUD.Domain.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\bin\Debug\net6.0\ShopCRUD.Domain.pdb
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ShopCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ShopCRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ShopCRUD.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ShopCRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ShopCRUD.Domain.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\refint\ShopCRUD.Domain.dll
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ShopCRUD.Domain.pdb
+C:\Users\User\source\repos\ShopCRUD\ShopCRUD.Domain\obj\Debug\net6.0\ref\ShopCRUD.Domain.dll
